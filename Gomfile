@@ -1,2 +1,0 @@
-gom 'github.com/nsf/termbox-go'
-gom 'github.com/jessevdk/go-flags'
