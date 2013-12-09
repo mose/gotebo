@@ -1,5 +1,15 @@
-Go Term Board
+Gotebo
 =======================
 
-This is mostly an exploratory project, an experiment. The idea behind it is to build a console dashboard that can get input streams from arbitrary sources and display them like a cool ascii dashboard. 
+This is mostly an exploratory project, an experiment.
+
+It revolves around creating some kindof json API server of some sort.
+
+Licence
+--------
+MIT
+
+Copyright
+---------
+(c) 2013 - mose a mose point com
 
