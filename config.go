@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/globocom/config"
+	"github.com/tsuru/config"
 	"log"
 )
 
